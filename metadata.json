@@ -1,6 +1,0 @@
-{
-  "name": "ELITEHUB",
-  "description": "EliteHub - Native developer script repository and hub with real-time sync, code viewer, and ownership management.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
